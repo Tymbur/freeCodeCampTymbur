@@ -1,9 +1,8 @@
 ---
 id: bd7158d8c442eddfaeb5bd0f
-title: Build a Pomodoro Clock
+title: Build a 25 + 5 Clock
 isRequired: true
 challengeType: 3
-isHidden: false
 forumTopicId: 301373
 ---
 
