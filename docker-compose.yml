@@ -85,7 +85,7 @@ services:
       - '3000:3000'
       - '9229:9229'
   db:
-    image: mongo:3.6
+    image: mongo:3.7
     ports:
       - '27016:27017'
     volumes:

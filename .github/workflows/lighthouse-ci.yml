@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-18.04
     services:
       mongodb:
-        image: mongo:3.6.19
+        image: mongo:3.7.9
         ports:
           - 27017:27017
 
